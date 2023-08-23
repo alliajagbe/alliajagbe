@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alli Ajagbe</h1>
+<h1 align="left">Hi 👋, I'm Alli Ajagbe</h1>
 
 My interests are primarily in:
 - Data Science
