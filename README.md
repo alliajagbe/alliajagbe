@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Alli Ajagbe</h1>
-<h3 align="center">An aspiring data scientist from Nigeria.</h3>
+
+My interests are primarily in:
+- Data Science
+- Machine Learning
+- Data Analytics & Visualization
+- Design
+- Social Impact
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alliajagbe&label=Profile%20views&color=0e75b6&style=flat" alt="alliajagbe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alliajagbe" alt="alliajagbe" /></a> </p>
 
-- 📝 I regularly write articles on [https://alliajagbe.hashnode.dev](https://alliajagbe.hashnode.dev)
+📝 I regularly write articles on [Hashnode](https://alliajagbe.hashnode.dev)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Latest Blog Post on Hashnode:
+#### From Chaos to Clarity: Ensuring Quality in Data Collection
+In our world today, data collection is at the beating heart of innovation. Every click, app download, purchase, and website interaction among many others contributes to a diverse set of insights that inform the way we navigate our world. In this article, I will discuss data collection, from the technical intricacies to the ethical considerations that guide us as humans. Specifically, I will shed light on how data is collected, discuss some key terminologies, types of data bias, data types, data collection considerations, identifying good data sources and ethics relating to data collection. [Continue Reading...](https://alliajagbe.hashnode.dev/from-chaos-to-clarity-ensuring-quality-in-data-collection)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
