@@ -14,8 +14,8 @@ My interests are primarily in:
 📝 I regularly write articles on [Hashnode](https://alliajagbe.hashnode.dev)
 
 ### Latest Blog Post on Hashnode:
-#### From Chaos to Clarity: Ensuring Quality in Data Collection
-In our world today, data collection is at the beating heart of innovation. Every click, app download, purchase, and website interaction among many others contributes to a diverse set of insights that inform the way we navigate our world. In this article, I will discuss data collection, from the technical intricacies to the ethical considerations that guide us as humans. Specifically, I will shed light on how data is collected, discuss some key terminologies, types of data bias, data types, data collection considerations, identifying good data sources and ethics relating to data collection. [Continue Reading...](https://alliajagbe.hashnode.dev/from-chaos-to-clarity-ensuring-quality-in-data-collection)
+#### Practical Guide to Building Your First Predictive Machine Learning Model
+In this practical guide, I will break down each step into bite-sized pieces, using simple words to ensure everyone reading can easily follow through. The case study to be used is the Titanic dataset. This classic example will help us navigate through the essentials: importing required libraries, data cleaning, exploratory data analysis, feature engineering, feature selection, hyperparameter tuning, and assessing model performance. [Continue Reading...](https://alliajagbe.hashnode.dev/practical-guide-to-building-your-first-predictive-machine-learning-model)
 
 
 <h3 align="left">Connect with me:</h3>
