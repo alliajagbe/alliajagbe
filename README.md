@@ -13,9 +13,9 @@ My interests are primarily in:
 
 📝 I regularly write articles on [Hashnode](https://alliajagbe.hashnode.dev)
 
-### [Latest Blog Post on Hashnode](https://alliajagbe.hashnode.dev/practical-guide-to-building-your-first-predictive-machine-learning-model):
-#### [Practical Guide to Building Your First Predictive Machine Learning Model](https://alliajagbe.hashnode.dev/practical-guide-to-building-your-first-predictive-machine-learning-model)
-In this practical guide, I will break down each step into bite-sized pieces, using simple words to ensure everyone reading can easily follow through. The case study to be used is the Titanic dataset. This classic example will help us navigate through the essentials: importing required libraries, data cleaning, exploratory data analysis, feature engineering, feature selection, hyperparameter tuning, and assessing model performance. [Continue Reading...](https://alliajagbe.hashnode.dev/practical-guide-to-building-your-first-predictive-machine-learning-model)
+### [Latest Blog Post on Hashnode](https://alliajagbe.hashnode.dev/how-to-deploy-your-ml-model-with-gradio):
+#### [How to Deploy Your ML Model with Gradio](https://alliajagbe.hashnode.dev/how-to-deploy-your-ml-model-with-gradio)
+A common pitfall for most individuals entering the machine learning and data science fields is concluding their projects solely within a Jupyter Notebook file. However, this should not be the case as machine learning is a powerful field, and sharing your models with others in an interactive manner can be exciting and rewarding. This is where Gradio comes in. [Continue Reading...](https://alliajagbe.hashnode.dev/how-to-deploy-your-ml-model-with-gradio)
 
 
 <h3 align="left">Connect with me:</h3>
